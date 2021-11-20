@@ -16,4 +16,12 @@ void main(){
   var name2 = 'Dias' 'Nur' 'Ramadhan';
   print(name1);
   print(name2);
+
+  var longString = '''
+  this is long string 
+  multilane sstring
+  learning dart
+  ''';
+
+  print(longString);
 }
